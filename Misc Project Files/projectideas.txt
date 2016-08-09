@@ -1,0 +1,30 @@
+% use web(url) to open the actual yahoo link in the GUIDE
+% forecast.io api key = 07cf1793cea1aa5a9b88b80fed298f0e
+% probably cannot use that api because of the long amount of time it would
+% take to put it into an array
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+send to jackie
+
+finalgui.m
+findex.m
+geolocate.m
+getzip.m
+winddir_deg.m
+ziptoewather.m
+finalgui.fig
+getzip.fig
+raw_yahoo_tags.mat
+excel data

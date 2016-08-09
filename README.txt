@@ -1,0 +1,1 @@
+Run the "getzip.m" file to begin! I had a enormous amount of fun making this project and learned a lot in the process.
